@@ -1,5 +1,3 @@
-I am having a fun weekend
-
-and you?
+I am having fun
 
 hello
